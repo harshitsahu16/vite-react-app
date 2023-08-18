@@ -1,0 +1,50 @@
+
+.department-list-container {
+    width: 60vw;
+    padding: 20px;
+    background-color: lightgrey;
+    margin-top: 30px;
+  }
+  
+  .department-accordion {
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .department-title {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .sub-department-checkbox {
+    margin-left: 30px;
+  }
+
+  .sub-department-list-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+  }
+
+.sub-department-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .sub-department-checkbox {
+    margin-right: 10px;
+  }
+  
+  .sub-department-title {
+    flex: 1;
+  }
+  
+
+  
+  
